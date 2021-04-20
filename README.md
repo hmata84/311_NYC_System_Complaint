@@ -14,3 +14,5 @@ The agency needs answers to several questions. The answers to those questions mu
 
 
 4. Can a predictive model be built for a future prediction of the possibility of complaints of the type that you have identified in response to question 1?
+
+### This Capstone project was created in order to succesfuly complete the final evaluation of the IBM Professional Certification.
